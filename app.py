@@ -186,7 +186,7 @@ STD             = [0.229, 0.224, 0.225]
 
 # Which species are venomous (rough guide — adjust as needed)
 VENOMOUS = {
-    "blunt_nosed_viper", "caspian_cobra","black_mamba", "common_krait", "himalayan_pit_viper",
+    "blunt_nosed_viper", "caspian_cobra", "common_krait", "himalayan_pit_viper",
     "indian_cobra", "russell_s_vipe", "saharan_horned_viper", "saw_scaled_viper",
     "spectacled_cobra",
 }
